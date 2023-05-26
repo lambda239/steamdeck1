@@ -1,0 +1,10 @@
+{
+    "name": "Ambient Travel (BONETONES)",
+    "description": "Ambient Travel from the BONEWORKS OST as background music. Music by Michael Wyckoff, sound file from BONETONES on Steam.",
+    "author": "lambda239",
+    "version": "v1.0",
+    "manifest_version": 2,
+    "music": true,
+    "ignore": [],
+    "mappings": {}
+  }
